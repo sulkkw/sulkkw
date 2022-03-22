@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ko Ko Win
-- 👀 I’m interested in Data Science and Data Analytics 
+- 👀 I’m interested in Data Science and Big Data 
 - 🌱 I’m currently in Final Year of Computer Science
 - 📫 How to reach me: krewkkw@gmail.com 
 
