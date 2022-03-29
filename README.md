@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Ko Ko Win
-- 👀 I’m interested in Data Science and Big Data 
+- 👀 I’m interested in Data Science 
 - 🌱 I’m currently in Final Year of Computer Science
 - 📫 How to reach me: krewkkw@gmail.com 
+- Ex-Product Analyst intern at Photobook Worldwide 
 
 <!---
 sulkkw/sulkkw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
