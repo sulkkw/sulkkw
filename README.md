@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ko Ko Win
-- 👀 I’m interested in Data Science 
+- 👀 I’m interested in Data Science and Technology
 - 🌱 I’m currently in Final Year of Computer Science
 - 📫 How to reach me: krewkkw@gmail.com 
 - Ex-Product Data Analyst intern at Photobook Worldwide 
